@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m Riffat Iman Hirzi!
 
-<!--
-**riffatiman/riffatiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Mobile Developer** | 💻 **Tech Enthusiast** | 🌱 **Lifelong Learner**
 
-Here are some ideas to get you started:
+📱 Passionate about building **scalable**, **user-friendly**, and **innovative** mobile applications.  
+🔧 Proficient in **Android (Kotlin/Java)** and **Cross-Platform Development (Flutter)**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Mobile Development**: Android, iOS, Flutter, React Native  
+- **Backend**: Firebase  
+- **Tools**: Git, Android Studio, Xcode, VS Code  
+- **Design**: Figma  
+
+---
+
+### 🌱 Currently Learning
+- Jetpack Compose  
+- SwiftUI  
+- Advanced State Management in Flutter 
